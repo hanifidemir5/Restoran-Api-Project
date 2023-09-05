@@ -1,10 +1,13 @@
+Certainly! Here's the README.md file for the "Restaurant API Project" in the format you specified:
+
 ```markdown
 # Restaurant API Project
 
-This repository contains a Django Rest Framework (DRF)
-based project that simulates a restaurant's delivery network.
-The project is designed to manage various aspects of a restaurant's operations
-, including customer orders, delivery crew, and manager functionalities.
+![GitHub last commit](https://img.shields.io/github/last-commit/hanifidemir5/Restoran-Api-Project)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+-This repository contains a Django Rest Framework (DRF) based project that simulates a restaurant's delivery network.
+-The project is designed to manage various aspects of a restaurant's operations, including customer orders, delivery crew, and manager functionalities.
 
 ## Table of Contents
 
@@ -67,7 +70,7 @@ Before you begin, ensure you have met the following requirements:
 
 5. Install Django and other required packages:
 
-   ```shell
+    ```shell
    pip install django
    pip install djangorestframework
    pip install djangorestframework-xml
@@ -77,7 +80,7 @@ Before you begin, ensure you have met the following requirements:
   - "pip install  djangorestframework" for using django-restframework.
   - "pip install djangorestframework-xml" to make django rest framework support xml files.
   - "pip install djoser" djoser provides basic login and logout pages.
-  
+
 ## Usage
 
 1. Start the Django development server:
@@ -87,7 +90,6 @@ Before you begin, ensure you have met the following requirements:
    ```
 
 2. Access the API in your web browser or use a tool like [Postman](https://www.postman.com/) to interact with the API endpoints.
-
 
 ## API Endpoints
 
@@ -127,3 +129,4 @@ Here are the main API endpoints and their descriptions:
 
 This project is licensed under the [MIT License](LICENSE).
 ```
+
