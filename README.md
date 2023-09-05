@@ -6,8 +6,10 @@ Certainly! Here's the README.md file for the "Restaurant API Project" in the for
 ![GitHub last commit](https://img.shields.io/github/last-commit/hanifidemir5/Restoran-Api-Project)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
--This repository contains a Django Rest Framework (DRF) based project that simulates a restaurant's delivery network.
--The project is designed to manage various aspects of a restaurant's operations, including customer orders, delivery crew, and manager functionalities.
+-This repository contains a Django Rest Framework (DRF)
+ based project that simulates a restaurant's delivery network.
+-The project is designed to manage various aspects of a restaurant's operations,
+ including customer orders, delivery crew, and manager functionalities.
 
 ## Table of Contents
 
