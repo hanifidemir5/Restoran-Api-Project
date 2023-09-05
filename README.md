@@ -33,6 +33,7 @@ Before you begin, ensure you have met the following requirements:
 - **Pip**: Ensure that `pip` is installed and its location is added to your system's PATH.
 
 - **Python**: Install Python (>= 3.7) on your system.
+```
 
 ## Installation
 
