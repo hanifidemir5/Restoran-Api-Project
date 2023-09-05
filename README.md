@@ -1,5 +1,3 @@
-Certainly! Here's the README.md file for the "Restaurant API Project" in the format you specified:
-
 # Restaurant API Project
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/hanifidemir5/Restoran-Api-Project)
