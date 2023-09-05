@@ -1,7 +1,8 @@
 ```markdown
 # Restaurant API Project
 
-This repository contains a Django Rest Framework (DRF) based project that simulates a restaurant's delivery network. The project is designed to manage various aspects of a restaurant's operations, including customer orders, delivery crew, and manager functionalities.
+This repository contains a Django Rest Framework (DRF) based project that simulates a restaurant's delivery network.
+The project is designed to manage various aspects of a restaurant's operations, including customer orders, delivery crew, and manager functionalities.
 
 ## Table of Contents
 
