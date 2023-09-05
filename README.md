@@ -131,5 +131,4 @@ Here are the main API endpoints and their descriptions:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
