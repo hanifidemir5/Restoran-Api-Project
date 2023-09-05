@@ -73,9 +73,9 @@ Before you begin, ensure you have met the following requirements:
    pip install djangorestframework-xml
    pip install djoser
    ```
-  - "pip install django" for using python-django framework
-  - "pip install  djangorestframework" for using django-restframework,
-  - "pip install djangorestframework-xml" to make django rest framework support xml files
+  - "pip install django" for using python-django framework.
+  - "pip install  djangorestframework" for using django-restframework.
+  - "pip install djangorestframework-xml" to make django rest framework support xml files.
   - "pip install djoser" djoser provides basic login and logout pages.
   
 ## Usage
