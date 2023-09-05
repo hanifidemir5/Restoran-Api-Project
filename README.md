@@ -1,6 +1,5 @@
 Certainly! Here's the README.md file for the "Restaurant API Project" in the format you specified:
 
-```markdown
 # Restaurant API Project
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/hanifidemir5/Restoran-Api-Project)
@@ -35,25 +34,25 @@ Before you begin, ensure you have met the following requirements:
 - **Pip**: Ensure that `pip` is installed and its location is added to your system's PATH.
 
 - **Python**: Install Python (>= 3.7) on your system.
-```
+
 
 ## Installation
 
 1. Clone this repository:
 
-   ```shell
+   ```bash
    git clone https://github.com/hanifidemir5/Restoran-Api-Project.git
    ```
 
 2. Navigate to the project directory:
 
-   ```shell
+   ```bash
    cd Restoran-Api-Project
    ```
 
 3. Create a virtual environment (optional but recommended):
 
-   ```shell
+   ```bash
    python -m venv venv
    ```
 
@@ -61,19 +60,19 @@ Before you begin, ensure you have met the following requirements:
 
    - On Windows:
 
-     ```shell
+     ```bash
      venv\Scripts\activate
      ```
 
    - On macOS and Linux:
 
-     ```shell
+     ```bash
      source venv/bin/activate
      ```
 
 5. Install Django and other required packages:
 
-    ```shell
+    ```bash
    pip install django
    pip install djangorestframework
    pip install djangorestframework-xml
@@ -88,7 +87,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Start the Django development server:
 
-   ```shell
+   ```bash
    python manage.py runserver
    ```
 
