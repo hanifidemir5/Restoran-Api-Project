@@ -132,9 +132,10 @@ REST_FRAMEWORK = {
         'rest_framework.renderers.BrowsableAPIRenderer',
         'rest_framework_xml.renderers.XMLRenderer',
     ],
-    'DEFAULT_AUTHENTICATION_CLASSES': [
-       'rest_framework.authentication.TokenAuthentication',
-    ]
+    # if you want to use bearer token authentication delete '#' below
+    #'DEFAULT_AUTHENTICATION_CLASSES': [
+    #   'rest_framework.authentication.TokenAuthentication',
+    #]
 }
 
 
