@@ -1,7 +1,7 @@
 # Restaurant API Project
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/hanifidemir5/Restoran-Api-Project)
-![License]([https://img.shields.io/badge/license-MIT-blue](https://github.com/hanifidemir5/Restoran-Api-Project/blob/main/LICENSE))
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 -This repository contains a Django Rest Framework (DRF)
  based project that simulates a restaurant's delivery network.
